@@ -183,7 +183,7 @@ export default async function Home() {
             Ótimo para se atualizar nas tecnologias do momento.
           </p>
         </div>
-      </section>
+      </section>~
     </>
   );
 }
